@@ -1,3 +1,4 @@
 # StreamHub
 Streaming Media over IP
-CCN Minor Project 
+
+Streaming is defined as continuous transmission of audio or video files from a server to a client 
