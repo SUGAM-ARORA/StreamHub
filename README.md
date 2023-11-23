@@ -1,2 +1,3 @@
-# StreamHub-Streaming-Media-over-Internet-Protocol-IP
+# StreamHub
+Streaming Media over IP
 CCN Minor Project 
